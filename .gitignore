@@ -11,3 +11,5 @@ package.json
 *.gemspec
 .jekyll-cache
 vendor
+study.html
+study.css
