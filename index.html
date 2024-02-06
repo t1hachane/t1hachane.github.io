@@ -6,7 +6,7 @@ layout: default
   <ul>
   {% for post in paginator.posts %}
     <article class="post">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
 
         <div>
