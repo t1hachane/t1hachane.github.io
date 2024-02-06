@@ -4,26 +4,18 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Welcome to ha's cooking pot website, a quirky blog by a computer science student who realized she spent way too much time on random things - from drowning in papers to coding stuff that didn't quite match her future path. Think of this as her personal collection, gathering what she's read and done, hoping it saves someone else's time (so they won’t have to spend tons of time reading and searching like her)
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+This space won't bore you with common Google-able knowledge (okay, maybe a bit, when she feels lazy but needs a push to study). Expect a bunch of topics like:
 
-## Features
+- **B**: Bioinformatics takes the spotlight, given her lab life
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+- **ML**: Can't ignore the AI hype, but she won't focus too much and ML posts will be more like her self-study journey, summarizing books. Please forgive her mistakes or being dumb in Maths.
+AI: Quick notes from her AI subjects at UET, just in case someone needs them down the line. Future usefulness, you never know.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- **SW**: Software subjects at her school is just way damn heavy, or at least she thinks so. Everything here serves the same purpose as the AI part - a digital time capsule, just in case.
+CS: Yep, because it tortured her so much. With that CS student title, she's determined to at least flex a bit and put her knowledge to use.
+
+- **Stat**: Just because she had to deal with it way too much.
+
+The blog's language will dance between English and Vietnamese, depending on her mood and understanding levels. They say in research, only 20% is gold, and the rest is just searching for that gold. For her, it feels like 99.99% useless and 0.01% gold. So here's her attempt to squeeze that 0.01% and save others from wandering in the 99.99% wasteland. Cheers to hoping no one wastes as much time as she did!
