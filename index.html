@@ -5,21 +5,21 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
   <ul>
-    <article class="post">
+    <section class="post">
       <a href=".{{ post.url }}">
         <h1>{{ post.title }}</h1>
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
       </a>
-      <div class="entry">
+      <!-- <div class="entry">
         {{ post.excerpt }}
-      </div>
+      </div> -->
     <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
-    </article>
+    </section>
   </ul>
   {% endfor %}
-  <!-- pagination -->
+  <!-- pagination
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
@@ -44,5 +44,5 @@ layout: default
       <span>Next &raquo;</span>
     {% endif %}
   </div>
-  {% endif %}
+  {% endif %} -->
 </div>
