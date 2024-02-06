@@ -44,6 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
+    font-family: 'Courier New', Courier, monospace;
     color: inherit;
   }
 }
@@ -307,7 +308,7 @@ p > img {
   margin: -5px 0 0 0;
   color: gray;
   font-size: 16px;
-
+  font-family: 'Courier New', Courier, monospace;
   /* @include mobile {
     margin: 3px 0;
   } */
@@ -332,7 +333,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-
+    font-family: 'Courier New', Courier, monospace;
     /* @include mobile {
       margin: 0 10px;
       color: blue;
@@ -377,6 +378,7 @@ nav {
   }
 
   .read-more {
+    font-family: 'Courier New', Courier, monospace;
     text-transform: uppercase;
     font-size: 15px;
   }
@@ -454,12 +456,13 @@ body:after {
 .post_date{
   text-align: center;
   color: #939aa1;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .cd-container a {
   color: #30434e;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .cd-container img {
