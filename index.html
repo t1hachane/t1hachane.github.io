@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" href="/assets/css/style.css" />
 <div class="posts">
+  <link rel="stylesheet" href="/assets/css/style.css" />
   {% for post in site.posts %}
-  <ul>
     <section class="post">
       <a href=".{{ post.url }}">
         <h1>{{ post.title }}</h1>
@@ -17,7 +16,6 @@ layout: default
       </div> -->
     <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
     </section>
-  </ul>
   {% endfor %}
   <!-- pagination
   {% if paginator.total_pages > 1 %}
