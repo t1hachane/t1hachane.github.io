@@ -6,7 +6,7 @@ layout: default
   <ul>
   {% for post in paginator.posts %}
     <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href=".{{ post.url }}">
         <h1>{{ post.title }}</h1>
 
         <div>
@@ -17,7 +17,7 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
     </article>
     <!-- <li>
 			<div class="post-date">
