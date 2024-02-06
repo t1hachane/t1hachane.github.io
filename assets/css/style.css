@@ -259,11 +259,11 @@ p > img {
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
+  float: left; 
+  width: 120px;
+  height: 120px;
   margin-right: 15px;
-
+  border-radius: 50%;
   
   /* @include mobile {
     float: none;
@@ -272,15 +272,15 @@ p > img {
   } */
 
   img {
-    border-radius: 5px;
-    width: 70px;
-    height: 70px;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
     object-fit: cover;
   }
 }
 
 .site-info {
-  float: left;
+  float: left; 
 
   /* @include mobile {
     float: none;
@@ -298,7 +298,10 @@ p > img {
   font-size: 28px;
   letter-spacing: 1px;
   text-align: center;
-
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  align-tracks: center;
   /* @include mobile {
     text-align: center;
   } */
