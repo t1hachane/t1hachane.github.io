@@ -3,39 +3,22 @@ layout: default
 ---
 <link rel="stylesheet" href="/assets/css/style.css" />
 <div class="posts">
-  <ul>
   {% for post in site.posts %}
-    <!-- <article class="post"> -->
-      <li>
+  <ul>
+    <article class="post">
+      <a href=".{{ post.url }}">
+        <h1>{{ post.title }}</h1>
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
-
-			  <div class="title">
-          <a href=".{{ post.url }}">
-            <h1>{{ post.title }}</h1>
-          </a>
-        </div>
-        
-        <div class="entry">
-          {{ post.excerpt }}
-        </div>
-      </li>
-      <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
-    <!-- </article> -->
-    <!-- <li>
-			<div class="post-date">
-				<time>{{ post.date | date: "%B %-d, %Y" }}</time>
-			</div>
-			<div class="title">
-				<a href="{{ post.url | prepend: site.baseurl }}"
-				onmouseover = "postLogo()"
-				onmouseout = "thisLogo()"
-				onmouseup = "postClicked()"> {{ post.title }} </a>
-			</div>
-		</li> -->
-  {% endfor %}
+      </a>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+    <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
+    </article>
   </ul>
+  {% endfor %}
   <!-- pagination -->
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
