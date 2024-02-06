@@ -19,8 +19,9 @@
 }
   
  
-@mixin mobile {
-  @media screen and (max-width: 640px) {
-    @content;
+@media screen and (max-width: 640px) {
+  body {
+    /* Adjust mobile styles here */
+    font-size: 14px;
   }
 }
