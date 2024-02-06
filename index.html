@@ -5,20 +5,24 @@ layout: default
 <div class="posts">
   <ul>
   {% for post in site.posts %}
-    <article class="post">
-      <a href=".{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-
+    <!-- <article class="post"> -->
+      <li>
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
 
+			  <div class="title">
+          <a href=".{{ post.url }}">
+            <h1>{{ post.title }}</h1>
+          </a>
+        </div>
+        
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+      </li>
       <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
-    </article>
+    <!-- </article> -->
     <!-- <li>
 			<div class="post-date">
 				<time>{{ post.date | date: "%B %-d, %Y" }}</time>
