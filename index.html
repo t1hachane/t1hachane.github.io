@@ -3,9 +3,10 @@ layout: default
 ---
 <link rel="stylesheet" href="/assets/css/style.css" />
 <div class="posts">
+  <ul>
   {% for post in paginator.posts %}
     <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.baseurl }}/{{ post.url }}">
         <h1>{{ post.title }}</h1>
 
         <div>
@@ -18,8 +19,19 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    <!-- <li>
+			<div class="post-date">
+				<time>{{ post.date | date: "%B %-d, %Y" }}</time>
+			</div>
+			<div class="title">
+				<a href="{{ post.url | prepend: site.baseurl }}"
+				onmouseover = "postLogo()"
+				onmouseout = "thisLogo()"
+				onmouseup = "postClicked()"> {{ post.title }} </a>
+			</div>
+		</li> -->
   {% endfor %}
-
+  </ul>
   <!-- pagination -->
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
