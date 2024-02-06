@@ -250,7 +250,7 @@ p > img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid lightGray;
+  border-bottom: 1px solid #f25477;
   text-align: center;
   /* @include mobile {
     text-align: center;
@@ -396,7 +396,7 @@ nav {
   bottom: 0;
   width: 100%;
   height: 89px;
-  background-color: lightGray;
+  background-color: #FFE4C9;
 }
 
 footer {
@@ -415,7 +415,7 @@ body:after {
 }
 
 #bar {
-    background: #000;
+    background: #E78895;
     height: 7px;
     background-size: cover;
     background-position: left 60%;
