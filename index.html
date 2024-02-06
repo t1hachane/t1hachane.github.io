@@ -3,7 +3,6 @@ layout: default
 ---
 <link rel="stylesheet" href="/assets/css/style.css" />
 <div class="posts">
-  <ul>
   {% for post in paginator.posts %}
     <article class="post">
       <a href=".{{ post.url }}">
@@ -31,7 +30,6 @@ layout: default
 			</div>
 		</li> -->
   {% endfor %}
-  </ul>
   <!-- pagination -->
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
