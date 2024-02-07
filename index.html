@@ -4,7 +4,7 @@ layout: default
 <div class="posts">
   <link rel="stylesheet" href="/assets/css/style.css" />
   {% for post in site.posts %}
-    <section class="post">
+    <article class="post">
       <a href=".{{ post.url }}">
         <h1>{{ post.title }}</h1>
         <div>
@@ -15,9 +15,9 @@ layout: default
         {{ post.excerpt }}
       </div> -->
     <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
-    </section>
+    </article>
   {% endfor %}
-  <!-- pagination
+  <!-- pagination -->
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
@@ -42,5 +42,5 @@ layout: default
       <span>Next &raquo;</span>
     {% endif %}
   </div>
-  {% endif %} -->
+  {% endif %}
 </div>
