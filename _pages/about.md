@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About this website
 permalink: /about/
 ---
 This is the first version of my website :). In this year, I will try my best to upgrade it from the front-end to the quality of my posts, my English as well... Also trying to become rich so I can pay to make this website appears on SEO in order to serve its right purposes. 😂
@@ -9,7 +9,7 @@ This is the first version of my website :). In this year, I will try my best to 
 
 **For non-tech readers** 🎤😸🌸
 
-After 3 (or 4) years of procrastination, this lazy gal has finally penned her first complete blog post :). It is not on Facebook nor Spiderum, it is on her own website! (hosted by github). This will be more like a tech blog but its owner sometimes also wants to share about her life too. Therefore, there will be some personal posts maybe on some occasions like: in the holiday when she is taking a breath from the deadlines, in the middle or at the end of the semester when she is usually too depressed with the tests :) or when she achieves something and she wants to share her experience. As everyone says, one may have multiple personalities when thinking in different languages so her posts will switch between English and Vietnamese depending on her moods, her understanding levels or her vocabulary... (just because she feels more comfortable to express herself in English despite her lack of vocabulary). Thanks a lot for reading!
+After 3 (or 4) years of procrastination, this lazy gal has finally penned her first complete blog post :). It is not on Facebook nor Spiderum, it is on her own website! (hosted by github). This will be more like a tech blog but its owner sometimes also wants to share about her life too. Therefore, there will be some personal posts maybe on some occasions like: in the holiday when she is taking a breath from the deadlines, in the middle or at the end of the semester when she is usually too depressed with the tests :) or when she achieves something and she wants to share her experience. As everyone says, one may have multiple personalities when thinking in different languages so her posts will switch between English and Vietnamese depending on her moods, her understanding levels or her vocabulary... (just because she feels more comfortable to express herself in English despite her lack of vocabulary). In the future; I will add an own section named "daily" for this. Thanks a lot for reading!
 
 **For tech readers** 💻
 
@@ -32,8 +32,10 @@ AI: Quick notes from her AI subjects at UET, just in case someone needs them dow
 
 - **Stat**: Just because she had to deal with it way too much.
 
-They say in research, only 20% is gold, and the rest is just searching for that gold. For her, it feels like 99.99% useless and 0.01% gold. So here's her attempt to squeeze that 0.01% and save others from wandering in the 99.99% wasteland. Cheers to hoping no one wastes as much time as she did!
+In the future; I will add one (or many) own section (named "tech",...) for these stuffs above.They say in research, only 20% is gold, and the rest is just searching for that gold. For her, it feels like 99.99% useless and 0.01% gold. So here's her attempt to squeeze that 0.01% and save others from wandering in the 99.99% wasteland. Cheers to hoping no one wastes as much time as she did!
 
 ![hope](/images/about2.jpg)
  
 Wishing for a year filled with plenty of coding and few bugs!
+
+*Written on 07/02/2024*

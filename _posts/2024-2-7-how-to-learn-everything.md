@@ -12,7 +12,7 @@ After attending MaSSP 2023, I really do feel the need to learn how to... learn. 
 
 - Sometimes, ofc I will read and try to understand something that is totally unecessary and not useful for my project
 
-Some rules I have deducted:
+Some rules I have concluded:
 
 **1; Rule number one**: if you can't explain one concept in your own language so others can understand, you haven't understood it. This is one lesson from one of my mentor in MaSSP 2023 that I carved to my heart. I believe that everyone will experience this when you read something and feel like "gotcha!" :); but when others ask you to explain that terminology again you will be confused and realize you haven't understood it thoroughly :)
 

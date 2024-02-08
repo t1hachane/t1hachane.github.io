@@ -11,3 +11,4 @@ First post to test which technology my website lacks:
 - English Vietnamese switcher for readers ❌
 - Enough asthestic ❌
 - Categories for posts ❌
+- Able to display Vietnamese posts ❓
