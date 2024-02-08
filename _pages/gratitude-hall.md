@@ -9,11 +9,13 @@ My mentors at MaSSP 2023, sister Linh and brother Thanh whom I really  respect, 
 
 My old high school classmate - roomate Nhi, who inspired me a lot to change and had a huge effect on my perspective of life.
 
-My old teacher Hieu - who taught me Chemisty at class 11. Despite our short meet, the impression left in me was significant.
+My former teacher, Hieu, who instructed me in Chemistry during my eleventh-grade class, left a lasting impression on me despite our brief encounter. He has taught many valuable lessons that continue to resonate with me to this day.
 
-Doctor Diep - who have guided me in science research during my college time (now and also in the future).
+Doctor Diep - who has guided me in science research during my college time (now and also in the future).
 
-My buddies; from my highschool friends, my old roomates to my current college friends; for supporting me not only in studying but also in many other aspects, getting through the hard time together and putting up with my dumbness and annoyingness :). I just want to say I was so damn lucky to meet everyone and thank you so much :)
+My buddies; from my highschool friends, my old roomates to my current college friends; for supporting me not only in studying but also in many other aspects, getting through the hard time together and putting up with my dumbness and annoyingness :). I just want to say I was so damn lucky to meet everyone and thank you so much :).
+
+My karaoke friends for hanging out and giving me so much fun and good memories :) let me have the real taste of youth :).
 
 And of course, my family for always loving, supporting me unconditionally.
 
