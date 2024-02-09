@@ -8,3 +8,9 @@ This is stupid af :)) but lol, for some reasons, I often trap myself in some lol
 
 - Jekyll bug: 
     - Don't name your posts with the date exceeds your current date or it won't be rendered :). Today is 7/2/2024 and yesterday was 6/2/2024. I spent a whole day just to look at and check whether the for loop in index.html had any faults and it turned out that my posts were not rendered because I name the posts as 8/2/2024 and 19/2/2024.
+
+- Install stuffs bug:
+    - what is PATH in your computer: (for cmd stuffs)
+    - what is anaconda and where your python libs run everytime you "import"
+    - what is python env
+    - how is the data in your computer arranged (local data / roaming / ....)
