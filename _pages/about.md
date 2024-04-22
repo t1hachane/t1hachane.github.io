@@ -5,7 +5,7 @@ permalink: /about/
 ---
 This is the first version of my website :). In this year, I will try my best to upgrade it from the front-end to the quality of my posts, my English as well... Also trying to become rich so I can pay to make this website appears on SEO in order to serve its right purposes. 😂
 
-![hope](/images/about.jpg)
+![hope](/images/introduction/about.jpg)
 
 **For non-tech readers** 🎤😸🌸
 
@@ -19,7 +19,7 @@ This space won't bore you with common Google-able knowledge (okay, maybe a bit, 
 
 - **B**: Bioinformatics takes the spotlight, given her lab life
 
-![hope](/images/about1.jpg)
+![hope](/images/introduction/about1.jpg)
 
 (Just a pic to make your reading less boring (⁠~⁠‾⁠▿⁠‾⁠)⁠~)
 
@@ -34,7 +34,7 @@ AI: Quick notes from her AI subjects at UET, just in case someone needs them dow
 
 In the future; I will add one (or many) own section (named "tech",...) for these stuffs above.They say in research, only 20% is gold, and the rest is just searching for that gold. For her, it feels like 99.99% useless and 0.01% gold. So here's her attempt to squeeze that 0.01% and save others from wandering in the 99.99% wasteland. Cheers to hoping no one wastes as much time as she did!
 
-![hope](/images/about2.jpg)
+![hope](/images/introduction/about2.jpg)
  
 Wishing for a year filled with plenty of coding and few bugs!
 

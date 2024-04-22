@@ -1,0 +1,12 @@
+---
+layout: post
+title: My lucky charm
+permalink: /my-lucky-charm/
+---
+
+I am not sure whether the title is right but I just wanna write this post to share my gratitude and my gratefulness for being so damn lucky to meet so many wonderful people in my life. Tho the time I wrote this post is also not ideal lol (when I am gonna be f***** up soon with the mid term exem of Computer Network next week and haven't completed the weekly reading for Software Engineering huhuhuhuhu), I can't help feeling lovely and happy right now.
+In my life, although it is quite f***** up when I often got blind, then pushed myself to a dead end or things sometimes didn't happen like I what expected, it is always made up for me when I met just so many wonderful people. I want to talk more about my experience when I joined the lab with my teacher Diep. There are many times that I got the wrong expectation and the feeling of being let down when I worked with her, or with other teams - but to rethink a little bit, I am still happy for having met such lovely people who are really enthusiastic and treating me well. May her reasearch field does not really align with my want, she is always supporting me and besides me, holding weekly meetings (though I don't know this is a normal thing or not - but I have to put down my hat with her time management skill. Sometimes I just feel like she is like me, her world is nearly always focusing on research projects with her students - don't know how she can manage other stuffs like her family or other relationship circles).
+
+
+Hoang is a master student of my teacher. He is just so cute and supportive too omg. I haven't made someone who is like him - very patient to hear I say every weekly meeting (to be honest whenever I speak, I feel like a cat who is running and playing around in front of Mrs.Diep and him lol cuz the things I do are just so simple and stupid with him). But look what he did!!! OMG it's just so cute and enthusiastic that I am really motivated to boost my energy and support him with my 100% for this project. How can he be so patient and calm towards the kids with less than 5 years of experience like him?
+![Alt text](hdcb_dung_code_cho_co_va_cac_em.png)

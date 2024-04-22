@@ -8,6 +8,7 @@ This is stupid af :)) but lol, for some reasons, I often trap myself in some lol
 
 - Jekyll bug: 
     - Don't name your posts with the date exceeds your current date or it won't be rendered :). Today is 7/2/2024 and yesterday was 6/2/2024. I spent a whole day just to look at and check whether the for loop in index.html had any faults and it turned out that my posts were not rendered because I name the posts as 8/2/2024 and 19/2/2024.
+    - My Jekyll blog took too much time to compile and update, push into the github
 
 - Install stuffs bug:
     - what is PATH in your computer: (for cmd stuffs)
@@ -17,3 +18,7 @@ This is stupid af :)) but lol, for some reasons, I often trap myself in some lol
 
 - Some Kaggle notebooks:
     - Please save your contents (a runtime version). A version won't be save when your notebook still has bugs somewhere so it can't run the whole notebook.
+    - Sometimes!! please do notice the environment which you are in. 
+
+- Python bugs:
+    - Sometimes; in python file (or ipynb file as well) you need to change the directory by adding something like "os.chdir(r"D:\Download\Năm 2 kì 2\Xử lý ảnh\BT\HW2")" into the beginning so your file can read the image or something.
