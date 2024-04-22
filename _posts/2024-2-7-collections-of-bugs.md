@@ -14,3 +14,6 @@ This is stupid af :)) but lol, for some reasons, I often trap myself in some lol
     - what is anaconda and where your python libs run everytime you "import"
     - what is python env
     - how is the data in your computer arranged (local data / roaming / ....)
+
+- Some Kaggle notebooks:
+    - Please save your contents (a runtime version). A version won't be save when your notebook still has bugs somewhere so it can't run the whole notebook.
